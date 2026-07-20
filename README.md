@@ -1,4 +1,4 @@
-1: Conditional Statements in Python: Even or Odd Checker  
+## 1: Conditional Statements in Python: Even or Odd Checker    
 ## Aim  
 To write a Python program to check whether the given number is even or odd using if...else statements.  
 
@@ -28,7 +28,7 @@ End the program.
 The program is executed successfully   
 
 
-2 :Datatypes-Boolean Expression Evaluation in Python   
+## 2 :Datatypes-Boolean Expression Evaluation in Python   
 
 ## Aim      
 
@@ -68,7 +68,7 @@ Print the value of d with the label "d:".
 The execution of the program was successfully done     
 
 
-3: Datatypes-Character Literal in Python  
+## 3: Datatypes-Character Literal in Python  
 
 ## Aim
 
@@ -96,7 +96,7 @@ Print the character 'a'.
 The execution of the program was successfully done  
 
 
-4: Datatypes-Complex Number Creation in Python  
+## 4: Datatypes-Complex Number Creation in Python  
 
 ## Aim
 
@@ -132,7 +132,7 @@ Print the imaginary part of x using x.imag.
 The execution of the program was successfully done 
 
 
-5: Datatypes-Read and Print a String in Python  
+## 5: Datatypes-Read and Print a String in Python  
 
 ## Aim   
 
