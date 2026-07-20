@@ -60,35 +60,35 @@ The execution of the program was successfully done
 🎯 Aim  
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.  
 
-🧠 Algorithm  
-Read an integer input from the user and assign it to the variable a (real part).  
+🧠 Algorithm     
+Read an integer input from the user and assign it to the variable a (real part).    
 Read another integer input from the user and assign it to the variable b (imaginary part).  
 Create a complex number x using the complex(a, b) function.  
 Print the complex number x.  
 Print the real part of x using x.real.  
 Print the imaginary part of x using x.imag.
-💻 Program
-<img width="431" height="158" alt="image" src="https://github.com/user-attachments/assets/5af8f319-9b5e-4bdd-944f-f6411b045133" />
+💻 Program   
+<img width="431" height="158" alt="image" src="https://github.com/user-attachments/assets/5af8f319-9b5e-4bdd-944f-f6411b045133" />      
 
-Output
-<img width="421" height="184" alt="image" src="https://github.com/user-attachments/assets/5970c30e-d8c1-4105-b5d6-ba2fed710544" />
+Output   
+<img width="421" height="184" alt="image" src="https://github.com/user-attachments/assets/5970c30e-d8c1-4105-b5d6-ba2fed710544" />      
 
-Result
-The execution of the program was successfully done
+Result   
+The execution of the program was successfully done   
 
-5: Datatypes-Read and Print a String in Python
-🎯 Aim
-To write a Python program to read a string from the user and then print it.
+5: Datatypes-Read and Print a String in Python   
+🎯 Aim   
+To write a Python program to read a string from the user and then print it.   
+   
+🧠 Algorithm   
+Assign a variable named men_stepped_on_the_moon.   
+Use input() to read a string from the user and store it in the variable.   
+Print the value stored in the variable.   
+🧾 Program    
+<img width="476" height="76" alt="image" src="https://github.com/user-attachments/assets/34e5ebd7-851e-4ba2-ae89-24022f6bef7b" />   
 
-🧠 Algorithm
-Assign a variable named men_stepped_on_the_moon.
-Use input() to read a string from the user and store it in the variable.
-Print the value stored in the variable.
-🧾 Program
-<img width="476" height="76" alt="image" src="https://github.com/user-attachments/assets/34e5ebd7-851e-4ba2-ae89-24022f6bef7b" />
+Output   
+<img width="286" height="80" alt="image" src="https://github.com/user-attachments/assets/c2d6a3f8-9471-43b8-8598-9245c32c32f8" />   
 
-Output
-<img width="286" height="80" alt="image" src="https://github.com/user-attachments/assets/c2d6a3f8-9471-43b8-8598-9245c32c32f8" />
-
-Result
-The execution of the program was successfully done
+Result  
+The execution of the program was successfully done  
